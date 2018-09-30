@@ -1,0 +1,13 @@
+1. Open the Mobile App.
+2. Press Enter.
+3. A menu displaying three options will be opened.
+4. By clicking "View Wallet", the customer can view his points.
+5. By clicking"Make Payment", the customer has to scan the merchant's 
+  NFC Tag.
+6. Since the NFC tag is pre-programmed, an alternative APK has been upload in the source code for testing the app. 
+7. Instead of scanning NFC Tag ( for demo purpose only ) press BACK BUTTON OF YOUR MOBILE PHONE.
+8. This will trigger the merchant's ID and name.
+9. The transaction can be made by entering the bill amount.
+10. If the customer has sufficient points, the transaction gets completed.
+11. The points and the transaction history get transferred to NFC Tag and the merchant can redeem it in bank. 
+12. The transaction history can be viewed by customer by clicking " Transaction history" in Main Menu.
